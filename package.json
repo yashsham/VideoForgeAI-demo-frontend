@@ -16,7 +16,7 @@
     "@firebase/firestore": "4.4.3",
     "@firebase/storage": "0.12.1",
     "@hookform/resolvers": "3.3.4",
-    "@webrtc/adapter": "8.2.3",
+   
     "firebase": "10.8.1",
     "lucide-react": "0.344.0",
     "react": "18.2.0",
