@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Search, Filter, Play } from 'lucide-react';
 import TemplateCard from '../components/Templates/TemplateCard';
-import { TemplateFilters } from '../components/Templates/TemplateFilters';
+import TemplateFilters from '../components/Templates/TemplateFilters';
 import TemplatePreview from '../components/Templates/TemplatePreview';
 import GettingStarted from '../components/Templates/GettingStarted';
 import Footer from '../components/Footer';
